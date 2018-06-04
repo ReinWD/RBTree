@@ -1,16 +1,24 @@
 import com.sun.istack.internal.NotNull;
 
+import java.io.Serializable;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
+import java.util.Objects;
+import java.util.function.Consumer;
 
-public class RedBlackTree<T extends Comparable> implements Collection<T> {
+public class RedBlackTree<T extends Comparable> implements Collection<T>, Serializable, Cloneable {
     public static final int RED = 0;
     public static final int BLACK = 1;
 
-    int size;
-    boolean isEmpty;
-    Node root;
+    private int size;
+    private boolean isEmpty;
+
+    private transient Node<T> root;
+
+    public Node<T> getRoot() {
+        return root;
+    }
 
     public RedBlackTree() {
         size = 0;
@@ -30,7 +38,16 @@ public class RedBlackTree<T extends Comparable> implements Collection<T> {
 
     @Override
     public boolean contains(Object o) {
-        return false;
+        return root != null && o != null && o instanceof Comparable && tryFind((Comparable) o, root) != null;
+    }
+
+    private Node<T> tryFind(@NotNull Comparable<T> o, Node<T> node) {
+        int comp = o.compareTo(node.value);
+        if (comp == 0) return node;
+        if (comp < 0) {
+            return node.leftChild == null ? null : tryFind(o, node.leftChild);
+        } else
+            return node.leftChild == null ? null : tryFind(o, node.rightChild);
     }
 
     @Override
@@ -49,38 +66,52 @@ public class RedBlackTree<T extends Comparable> implements Collection<T> {
     }
 
     @Override
-    public <T1> T1[] toArray(T1[] a) {
-        return null;
+    @SuppressWarnings("unchecked")
+    public <E> E[] toArray(E[] a) {
+        if (a.length < size)
+            a = (E[]) java.lang.reflect.Array.newInstance(
+                    a.getClass().getComponentType(), size);
+        Object[] result = a;
+        Iterator<T> iterator = this.iterator();
+        for (int i = 0; iterator.hasNext(); i++) {
+            result[i] = iterator.next();
+        }
+        if (a.length > size)
+            a[size] = null;
+        return a;
     }
 
     @Override
-    public boolean add(T t) {
+    public boolean add(@NotNull T t) {
+        //type 1
         if (root == null) {
-            root = new Node(t, BLACK);
+            root = new Node<>(t, BLACK);
             size++;
             isEmpty = false;
             return true;
         }
+        //other type see proceedFlip
         return tryInsert(t, root);
     }
 
+    @SuppressWarnings("unchecked")
     private boolean tryInsert(@NotNull T t, Node node) {
+        boolean eq = node.rightChild == node;
         if (t.equals(node.value)) return false;
         if (t.compareTo(node.value) > 0) {
             if (node.hasRightChild()) {
                 return tryInsert(t, node.rightChild);
             } else {
-                node.rightChild = new Node(t, node);
+                node.rightChild = new Node<>(t, node);
                 proceedFlip(node.rightChild);
                 size++;
                 return true;
             }
-
         } else {
             if (node.hasLeftChild()) {
                 return tryInsert(t, node.leftChild);
             } else {
-                node.leftChild = new Node(t, node);
+                node.leftChild = new Node<>(t, node);
                 proceedFlip(node.leftChild);
                 size++;
                 return true;
@@ -88,23 +119,194 @@ public class RedBlackTree<T extends Comparable> implements Collection<T> {
         }
     }
 
-    private void proceedFlip(Node node) {
-        //todo
+    private void proceedFlip(final Node<T> node) {
+        Node<T> parent = node.parent;
+        //type 1
+        if (parent == null) {
+            node.color = BLACK;
+            root = node;
+            return;
+        }
+        //type 2
+        if (parent.color == BLACK) return;
+
+        if (parent.color == RED) {
+            Node<T> grandParent = parent.parent;
+            if (parent.isRightChild()) {
+                //type 3
+                if (grandParent.hasLeftChild()) {
+                    if (grandParent.leftChild.color == RED) {
+                        parent.color = BLACK;
+                        grandParent.color = RED;
+                        grandParent.leftChild.color = BLACK;
+                        proceedFlip(grandParent);
+                    } else {
+                        if (node.isRightChild()) {
+                            parent.color = BLACK;
+                            grandParent.color = RED;
+                            grandParent.leftChild.color = BLACK;
+                        } else {
+                            node.color = BLACK;
+                            grandParent.color = RED;
+                            parent.color = RED;
+                        }
+                        spinLeft(grandParent, parent, node);
+                    }
+                } else {
+                    //type 4
+                    if (node.isRightChild()) {
+                        parent.color = BLACK;
+                        grandParent.color = RED;
+                    } else {
+                        node.color = BLACK;
+                        grandParent.color = RED;
+                    }
+                    spinLeft(grandParent, parent, node);
+                }
+            } else {
+                //type 3
+                if (grandParent.hasRightChild()) {
+                    if (grandParent.rightChild.color == RED) {
+                        parent.color = BLACK;
+                        grandParent.color = RED;
+                        grandParent.rightChild.color = BLACK;
+                        proceedFlip(grandParent);
+                    } else {
+                        if (node.isRightChild()) {
+                            node.color = BLACK;
+                            grandParent.color = RED;
+                            parent.color = RED;
+                        } else {
+                            parent.color = BLACK;
+                            grandParent.color = RED;
+                            node.color = RED;
+                        }
+                        spinRight(grandParent, parent, node);
+                    }
+                } else {
+                    //type 4
+                    if (node.isRightChild()) {
+                        node.color = BLACK;
+                        grandParent.color = RED;
+                    } else {
+                        parent.color = BLACK;
+                        grandParent.color = RED;
+                    }
+                    spinRight(grandParent, parent, node);
+                }
+            }
+        }
+    }
+
+    private void spinRight(final Node<T> grandParent, final Node<T> parent, final Node<T> node) {
+        boolean gpIsRight = grandParent.isRightChild();
+        boolean nodeIsRight = node.isRightChild();
+
+        if (nodeIsRight) {
+            node.parent = grandParent.parent;
+            if (node.parent != null) {
+                if (gpIsRight) node.parent.rightChild = node;
+                else node.parent.leftChild = node;
+            } else root = node;
+
+            if (node.rightChild != null) {
+                node.rightChild.parent = grandParent;
+            }
+            grandParent.leftChild = node.rightChild;
+            node.rightChild = grandParent;
+            grandParent.parent = node;
+
+            if (node.leftChild != null) {
+                node.leftChild.parent = parent;
+            }
+            parent.rightChild = node.leftChild;
+            node.leftChild = parent;
+            parent.parent = node;
+        } else {
+            parent.parent = grandParent.parent;
+            if (parent.parent != null) {
+                if (gpIsRight) parent.parent.rightChild = parent;
+                else parent.parent.leftChild = parent;
+            } else root = parent;
+
+            if (parent.rightChild != null)
+                parent.rightChild.parent = grandParent;
+            grandParent.leftChild = parent.rightChild;
+            parent.rightChild = grandParent;
+            grandParent.parent = parent;
+        }
+    }
+
+    private void spinLeft(final Node<T> grandParent, final Node<T> parent, final Node<T> node) {
+        boolean gpIsRight = grandParent.isRightChild();
+        boolean nodeIsRight = node.isRightChild();
+
+        if (!nodeIsRight) {
+            node.parent = grandParent.parent;
+            if (node.parent != null) {
+                if (gpIsRight) node.parent.rightChild = node;
+                else node.parent.leftChild = node;
+            } else root = node;
+
+            if (node.leftChild != null) {
+                node.leftChild.parent = grandParent;
+            }
+            grandParent.rightChild = node.leftChild;
+            node.leftChild = grandParent;
+            grandParent.parent = node;
+
+            if (node.rightChild != null) {
+                node.rightChild.parent = parent;
+            }
+            parent.leftChild = node.rightChild;
+            node.rightChild = parent;
+            parent.parent = node;
+        } else {
+            parent.parent = grandParent.parent;
+            if (parent.parent != null) {
+                if (gpIsRight) parent.parent.rightChild = parent;
+                else parent.parent.leftChild = parent;
+            } else root = parent;
+
+            if (parent.leftChild != null)
+                parent.leftChild.parent = grandParent;
+            grandParent.rightChild = parent.leftChild;
+            parent.leftChild = grandParent;
+            grandParent.parent = parent;
+        }
     }
 
     @Override
     public boolean remove(Object o) {
+        //todo
+        if (o == null) return false;
+        if (o instanceof Comparable) {
+            Node<T> node = tryFind(((Comparable) o), root);
+            if (node == null) return false;
+            else ;
+            //todo
+        }
         return false;
     }
 
     @Override
     public boolean containsAll(Collection<?> c) {
-        return false;
+        for (Object obj :
+                c) {
+            if (!contains(c)) return false;
+        }
+        return true;
     }
 
     @Override
     public boolean addAll(Collection<? extends T> c) {
-        return false;
+        if (c == null || c.size() == 0) return false;
+        boolean result = false;
+        for (T o :
+                c) {
+            if (add(o)) result = true;
+        }
+        return result;
     }
 
     @Override
@@ -122,7 +324,16 @@ public class RedBlackTree<T extends Comparable> implements Collection<T> {
 
     @Override
     public boolean retainAll(Collection<?> c) {
-        return false;
+        Objects.requireNonNull(c);
+        Iterator<T> it = iterator();
+        boolean modified = false;
+        while (it.hasNext()) {
+            if (!c.contains(it.next())) {
+                it.remove();
+                modified = true;
+            }
+        }
+        return modified;
     }
 
     @Override
@@ -130,35 +341,27 @@ public class RedBlackTree<T extends Comparable> implements Collection<T> {
         this.root = null;
     }
 
-    class Node {
-        Node parent;
-        Node leftChild;
-        Node rightChild;
+    class Node<T> {
+        Node<T> parent;
+        Node<T> leftChild;
+        Node<T> rightChild;
         int color;
 
         T value;
 
         Node(T value) {
-            this.value = value;
-            parent = null;
-            leftChild = null;
-            rightChild = null;
-            color = RED;
+            this(value, null, null, null, RED);
         }
 
         Node(T value, int color) {
-            this.value = value;
-            this.color = color;
+            this(value, null, null, null, color);
         }
 
-        Node(T value, Node parent) {
-            this.value = value;
-            this.parent = parent;
-            leftChild = null;
-            rightChild = null;
+        Node(T value, Node<T> parent) {
+            this(value, parent, null, null, RED);
         }
 
-        Node(T value, Node parent, Node leftChild, Node rightChild, int color) {
+        Node(T value, Node<T> parent, Node<T> leftChild, Node<T> rightChild, int color) {
             this.value = value;
             this.parent = parent;
             this.leftChild = leftChild;
@@ -181,19 +384,30 @@ public class RedBlackTree<T extends Comparable> implements Collection<T> {
         boolean isRightChild() {
             return hasParent() && parent.rightChild == this;
         }
+
+        @Override
+        public boolean equals(Object obj) {
+            return obj instanceof Node && this.value.equals(((Node) obj).value);
+        }
+
+        @Override
+        public String toString() {
+            String color = this.color == RED ? "RED" : "BLACK";
+            return String.format("%s,%s", color, value);
+        }
     }
 
     class RBIterator implements Iterator<T> {
         boolean initFlag;
-        Node node;
+        Node<T> node;
 
         RBIterator() {
             node = findLeftborder(root);
             initFlag = true;
         }
 
-        private Node findLeftborder(Node node) {
-            Node temp = node;
+        private Node<T> findLeftborder(Node<T> node) {
+            Node<T> temp = node;
 
             while (temp.hasLeftChild()) temp = temp.leftChild;
             return temp;
@@ -212,6 +426,16 @@ public class RedBlackTree<T extends Comparable> implements Collection<T> {
         }
 
         @Override
+        public void remove() {
+            RedBlackTree.this.remove(node.value);
+        }
+
+        @Override
+        public void forEachRemaining(Consumer<? super T> action) {
+
+        }
+
+        @Override
         public T next() {
             if (initFlag) {
                 initFlag = false;
@@ -222,7 +446,7 @@ public class RedBlackTree<T extends Comparable> implements Collection<T> {
                 while (node.hasLeftChild()) node = node.leftChild;
                 return node.value;
             } else {
-                Node temp = node;
+                Node<T> temp = node;
                 while (temp.isRightChild()) temp = temp.parent;
                 if (!temp.hasParent()) throw new NoSuchElementException();
                 node = temp.parent;
