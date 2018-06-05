@@ -5,7 +5,6 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 import java.util.Objects;
-import java.util.function.Consumer;
 
 public class RedBlackTree<T extends Comparable> implements Collection<T>, Serializable, Cloneable {
     public static final int RED = 0;
@@ -278,13 +277,86 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
 
     @Override
     public boolean remove(Object o) {
-        //todo
         if (o == null) return false;
         if (o instanceof Comparable) {
-            Node<T> node = tryFind(((Comparable) o), root);
+            final Node<T> node = tryFind(((Comparable<T>) o), root);
             if (node == null) return false;
-            else ;
-            //todo
+            else {//node != null
+                final Node<T> parent = node.parent;
+                if (node.color == RED){
+                    if (!node.hasLeftChild()&&!node.hasRightChild()){
+                        node.changeParent(null);
+                        return true;
+                    }
+                    if (node.hasLeftChild()^node.hasRightChild()){
+                        Node<T> child = node.hasLeftChild()? node.leftChild : node.rightChild;
+                        node.changeParent(null);
+                        child.changeParent(parent);
+                        return true;
+                    } else {
+                        Node<T> replacer = node.rightChild.findLeftBorder();
+                        if (replacer.color==RED){
+                            replacer.changeParent(parent);
+                            return true;
+                        }
+                        else{
+                            Node<T> repParent = replacer.parent;
+                            if (replacer.hasRightChild()){
+                                replacer.rightChild.color = BLACK;
+                                replacer.rightChild.changeParent(repParent);
+                            }else {
+                                Node<T> brother = repParent.rightChild;
+                                if (repParent.color == RED){
+                                    if (!brother.hasLeftChild()&&!brother.hasRightChild()){
+                                        brother.color = RED;
+                                        repParent.color = BLACK;
+                                    }else {
+                                        if (brother.hasLeftChild())spinLeft(repParent,brother, brother.leftChild);
+                                        else spinLeft(repParent,brother,brother.rightChild);
+                                    }
+                                }
+                                if (brother.color==BLACK){
+                                    if (!brother.hasLeftChild()&&!brother.hasRightChild()){
+                                        //todo
+                                    }
+                                }else {
+                                    //todo
+                                }
+                            }
+                        }
+                        replacer.changeParent(parent);
+                    }
+                }else {
+                    //节点无子
+                    if (!node.hasLeftChild()&&!node.hasRightChild()){
+                        Node<T> brother = null;
+                        Node<T> border = null;
+                        if (node.isRightChild()) {
+                            brother = parent.leftChild;
+                            border = parent.leftChild.findRightBorder();
+                        }else {
+                            brother = parent.rightChild;
+                            border = brother.findLeftBorder();
+                        }
+                        node.changeParent(null);
+                        border.changeParent(parent.parent);
+                        brother.changeParent(border);
+                        parent.changeParent(border);
+                        if (border.color == RED) parent.color = BLACK;
+                        return true;
+                    }
+                    //只有一个子元素
+                    if (node.hasLeftChild()^node.hasRightChild()){
+                        Node<T> child = node.hasLeftChild()? node.leftChild : node.rightChild;
+                        node.changeParent(null);
+                        child.changeParent(parent);
+                        child.color = BLACK;
+                    }else {
+                        //黑节点有两个子元素
+                        //todo
+                    }
+                }
+            }
         }
         return false;
     }
@@ -293,7 +365,7 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
     public boolean containsAll(Collection<?> c) {
         for (Object obj :
                 c) {
-            if (!contains(c)) return false;
+            if (!contains(obj)) return false;
         }
         return true;
     }
@@ -341,7 +413,7 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
         this.root = null;
     }
 
-    class Node<T> {
+    class Node<T extends Comparable> {
         Node<T> parent;
         Node<T> leftChild;
         Node<T> rightChild;
@@ -385,6 +457,42 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
             return hasParent() && parent.rightChild == this;
         }
 
+        void changeParent(Node<T> newParent){
+            if (newParent == null) {
+                if (this.hasParent())
+                    if (this.isRightChild())this.parent.rightChild = null;
+                    else this.parent.leftChild = null;
+                this.parent = null;
+                return;
+            }
+            final Node<T> oldParent = this.parent;
+            int comp = this.value.compareTo(newParent.value);
+            if (comp == 0) return;
+            this.parent = newParent;
+            if(this.hasParent())
+                if (this.isRightChild())oldParent.rightChild = null;
+                else oldParent.leftChild = null;
+            if (comp > 0){
+                if (newParent.rightChild!=null)throw new IllegalStateException("parent still have a right child");
+                newParent.rightChild = this;
+            }else {
+                if (newParent.leftChild!=null)throw new IllegalStateException("parent still have a left child");
+                newParent.leftChild = this;
+            }
+        }
+
+        Node<T> findLeftBorder() {
+            Node<T> temp = this;
+            while (temp.hasLeftChild()) temp = temp.leftChild;
+            return temp;
+        }
+
+        Node<T> findRightBorder(){
+            Node<T> temp = this;
+            while (temp.hasRightChild()) temp = temp.rightChild;
+            return temp;
+        }
+
         @Override
         public boolean equals(Object obj) {
             return obj instanceof Node && this.value.equals(((Node) obj).value);
@@ -402,19 +510,13 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
         Node<T> node;
 
         RBIterator() {
-            node = findLeftborder(root);
+            node = root == null?null:root.findLeftBorder();
             initFlag = true;
-        }
-
-        private Node<T> findLeftborder(Node<T> node) {
-            Node<T> temp = node;
-
-            while (temp.hasLeftChild()) temp = temp.leftChild;
-            return temp;
         }
 
         @Override
         public boolean hasNext() {
+            if (node == null)return false;
             if (!node.isRightChild()) return true;
             else if (node.hasRightChild()) return true;
             else {
@@ -427,16 +529,13 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
 
         @Override
         public void remove() {
+            if(initFlag)throw new IllegalStateException();
             RedBlackTree.this.remove(node.value);
         }
 
         @Override
-        public void forEachRemaining(Consumer<? super T> action) {
-
-        }
-
-        @Override
         public T next() {
+            if (node == null)throw new NoSuchElementException("root is null");
             if (initFlag) {
                 initFlag = false;
                 return node.value;

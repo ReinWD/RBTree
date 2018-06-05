@@ -33,7 +33,9 @@ class RBTTest {
 
     @Test
     void RBTContainsTest(){
-
+        a.remove("过气游戏");
+        Assertions.assertFalse(a.contains("过气游戏"));
+        RBTisValid();
     }
 
     @Test
