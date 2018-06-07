@@ -2,6 +2,9 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.io.*;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Random;
 
 class RBTTest {
     RedBlackTree<String> a;
@@ -46,4 +49,36 @@ class RBTTest {
         Assertions.assertTrue(checker.checkRoute(root),checker.cause);
     }
 
+    @Test
+    void finalTest() throws IOException {
+        ArrayList<String> stringList = new ArrayList<>();
+        RBTChecker checker = new RBTChecker();
+        File file = new File("str");
+        BufferedReader reader= new BufferedReader(new FileReader(file));
+        String buffer;
+        while ((buffer = reader.readLine())!=null){
+            stringList.add(buffer);
+        }
+        Random random = new Random();
+        RedBlackTree tree = new RedBlackTree();
+        while (tree.size()<stringList.size()){
+            int index = random.nextInt(stringList.size());
+            if (!tree.add(stringList.get(index))){
+                tree.remove(stringList.get(index));
+            }
+            Assertions.assertTrue(checker.checkRoute(tree.getRoot()),checker.getCause());
+        }
+
+    }
+
+    @Test
+    void iteratorTest(){
+        Iterator<String> iterator= a.iterator();
+        int i = 0;
+        while (iterator.hasNext()){
+            i++;
+            iterator.next();
+        }
+        Assertions.assertEquals(i,a.size());
+    }
 }

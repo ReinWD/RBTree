@@ -5,6 +5,7 @@ class RBTChecker{
     public String getCause() {
         return cause;
     }
+
     private boolean setCause(String cause) {
         this.cause = cause;
         return false;

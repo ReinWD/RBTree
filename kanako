@@ -1,0 +1,1374 @@
+"C:\Program Files\Java\jdk1.8.0_144\bin\java" "-javaagent:D:\IntelliJ IDEA 2017.2.3\lib\idea_rt.jar=50187:D:\IntelliJ IDEA 2017.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;V:\Java Projects\GenerousTest\out\production\GenerousTest" LogGreper
+[13:12:55] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[13:12:55] [main/INFO]: [CHAT] §8藏宝图的另一部分 §7掉在了地上
+[13:14:00] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[13:14:00] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[13:15:21] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fCREEPER §cLv.§e23§f
+[13:15:21] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f咖啡杯 *1
+[13:18:24] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[13:18:24] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r水精公主 *1
+[13:19:49] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[13:19:49] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§ePiece of Eden *1
+[13:21:45] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fENDERMAN §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§9千葉氏の月星紋§0]
+[13:21:45] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6蜂蜜苹果糖 *1
+[13:25:30] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§0§1§e§6§l§f英雄愿望§0]
+[13:25:30] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§8藏宝图的另一部分 *1
+[14:03:16] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§8§7§l§e天空之神剑§0]
+[14:03:16] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§7元素空气 *3
+[14:04:01] [main/INFO]: [CHAT] §0[黑化] §a[森精种] §fSPIDER §cLv.§e12§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[14:04:01] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§e强化水晶 *1
+[14:05:19] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §a[森精种] §fSKELETON §cLv.§e12§f
+[14:06:44] [main/INFO]: [CHAT] §0[黑化] §a[森精种] §fSKELETON §cLv.§e11§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§8§7§l§e天空之神剑§0] §6之下！
+[14:06:44] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§4炼狱之火法杖 *1
+[14:07:56] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §a[森精种] §fCREEPER §cLv.§e11§f§6！
+[14:07:56] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r高速修复桶 *1
+[14:17:20] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f§6！
+[14:17:20] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§d帕秋莉的魔法书 *1
+[14:18:42] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[14:18:42] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r火神的光辉 *1
+[14:18:53] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r塩魚焼き *1
+[14:19:51] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[14:19:51] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r风灵的角笛 *1
+[14:20:48] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSPIDER §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[14:20:48] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6圣人蛋 *1
+[14:21:08] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[14:21:08] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r水精公主 *1
+[14:25:28] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fENDERMAN §cLv.§e23§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§8§7§l§e天空之神剑§0] §6之下！
+[14:26:24] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[14:26:24] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f 中找到了 §r火神之光 *1
+[14:27:03] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE_VILLAGER §cLv.§e23§f
+[14:27:03] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE_VILLAGER §cLv.§e23§f 中找到了 §r§6香酥鸡腿 *1
+[14:27:22] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[14:27:22] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r0xA *1
+[14:29:34] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[14:29:34] [main/INFO]: [CHAT] 水精公主 §7掉在了地上
+[14:30:17] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[14:30:17] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f 中找到了 §r§6香酥鸡腿 *1
+[14:32:26] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[14:32:26] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§ePiece of Eden *1
+[14:33:14] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f
+[14:33:14] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r风灵的角笛 *1
+[14:33:25] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[14:33:25] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§d帕秋莉的魔法书 *1
+[14:33:55] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[14:33:55] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f 中找到了 §r水精公主 *1
+[14:34:15] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSPIDER §cLv.§e23§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[14:34:15] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f咖啡杯 *1
+[14:34:47] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §f[§0黑化§f] §fZOMBIE §cLv.§e25§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[14:34:47] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r卷的嘲讽 *1
+[14:35:10] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §f[§0黑化§f] §fZOMBIE §cLv.§e25§f
+[14:35:10] [main/INFO]: [CHAT] §c草莓果酱蛋糕 §7掉在了地上
+[14:35:40] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f§6！
+[14:35:40] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r塩魚焼き *1
+[14:35:56] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[14:35:56] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f咖啡杯 *1
+[14:36:24] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSPIDER §cLv.§e24§f§6！
+[14:36:24] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[14:36:43] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSPIDER §cLv.§e24§f§6！
+[14:36:43] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSPIDER §cLv.§e24§f 中找到了 §r火神之光 *1
+[14:37:02] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[14:41:18] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[14:41:18] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r母亲的南瓜派 *1
+[14:43:05] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[14:43:05] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6香酥鸡腿 *1
+[15:14:28] [main/INFO]: [CHAT] §0[黑化] §4[吸血种] §fCREEPER §cLv.§e1§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[15:14:28] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§c罗马短剑 *1
+[15:14:55] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §4[吸血种] §fSKELETON §cLv.§e1§f§6！
+[15:14:55] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6黄金汤匙 *1
+[15:15:01] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §4[吸血种] §fZOMBIE §cLv.§e1§f
+[15:15:01] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§0亡者面具 *1
+[15:15:19] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[15:15:19] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6印第安星火短弓 *1
+[15:39:03] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[15:39:03] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§ePiece of Eden *1
+[15:40:52] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[15:40:52] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[15:42:02] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[15:42:02] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[15:43:29] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6香酥鸡腿 *1
+[15:45:01] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f§6！
+[15:45:01] [main/INFO]: [CHAT] 火神之光 §7掉在了地上
+[15:45:31] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[15:45:31] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r塩魚焼き *1
+[15:47:19] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[15:47:19] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§d帕秋莉的魔法书 *1
+[15:48:27] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[15:48:27] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r银龙 *1
+[15:48:56] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[15:48:56] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r塩魚焼き *1
+[15:50:55] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[15:50:55] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r火神之光 *1
+[15:53:01] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fCREEPER §cLv.§e24§f§6！
+[15:58:20] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e23§f
+[15:58:20] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e23§f 中找到了 §r母亲的南瓜派 *1
+[15:59:37] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f§6！
+[15:59:37] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[16:00:29] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSPIDER §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[16:00:29] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSPIDER §cLv.§e24§f 中找到了 §r§f咖啡杯 *1
+[16:00:36] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[16:00:36] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[16:01:29] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[16:01:29] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[19:30:04] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:30:04] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f爆紫米花 *1
+[19:30:10] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:30:10] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:30:17] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§ePiece of Eden *1
+[19:30:40] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:30:45] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:30:45] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r母亲的南瓜派 *1
+[19:30:50] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:30:50] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r翠绿风暴 *1
+[19:30:53] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:30:53] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r塩魚焼き *1
+[19:30:56] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:30:56] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:31:06] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:31:06] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r塩魚焼き *1
+[19:31:07] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:31:07] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r母亲的南瓜派 *1
+[19:31:10] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:10] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§ePiece of Eden *1
+[19:31:13] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:13] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[19:31:18] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§9黑化的圣女果 *1
+[19:31:24] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:24] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6蜂蜜苹果糖 *1
+[19:31:25] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:31:25] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:31:27] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:31:27] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[19:31:40] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:54] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:54] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r风灵的角笛 *1
+[19:31:54] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:55] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:31:55] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f咖啡杯 *1
+[19:31:55] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:31:55] [main/INFO]: [CHAT] §f咖啡杯 §7掉在了地上
+[19:31:55] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:55] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[19:31:55] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:31:55] [main/INFO]: [CHAT] §6蜂蜜苹果糖 §7掉在了地上
+[19:31:56] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:56] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6香酥鸡腿 *1
+[19:31:56] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:56] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r火神的光辉 *1
+[19:31:57] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:31:57] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§f咖啡杯 *1
+[19:31:58] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:31:58] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§8藏宝图的另一部分 *1
+[19:31:58] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:31:58] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[19:31:59] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:59] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§8藏宝图的另一部分 *1
+[19:31:59] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:31:59] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r塩魚焼き *1
+[19:31:59] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:31:59] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[19:32:00] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:00] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f爆紫米花 *1
+[19:32:00] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:00] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6动力燃料 *16
+[19:32:01] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:01] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f咖啡杯 *1
+[19:32:01] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:01] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r火神的光辉 *1
+[19:32:01] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:02] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:02] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§8藏宝图的另一部分 *1
+[19:32:03] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:03] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§f咖啡杯 *1
+[19:32:03] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:32:03] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[19:32:03] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:03] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r母亲的南瓜派 *1
+[19:32:05] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:05] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6香酥鸡腿 *1
+[19:32:05] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:05] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r火神之光 *1
+[19:32:06] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:06] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§e强化水晶 *1
+[19:32:07] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:07] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:32:07] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:32:07] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f咖啡杯 *1
+[19:32:08] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:08] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r塩魚焼き *1
+[19:32:08] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:08] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:09] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:32:09] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r塩魚焼き *1
+[19:32:11] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:32:11] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[19:32:11] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:11] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r勇气卷轴 *1
+[19:32:11] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:32:11] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r火神的光辉 *1
+[19:32:12] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:12] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§f咖啡杯 *1
+[19:32:12] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:12] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f爆紫米花 *1
+[19:32:12] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:12] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r塩魚焼き *1
+[19:32:13] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:32:13] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:32:13] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6蜂蜜苹果糖 *1
+[19:32:14] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:14] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r火神之光 *1
+[19:32:14] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:14] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r母亲的南瓜派 *1
+[19:32:14] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:32:14] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§d星导馆学园徽章 *1
+[19:32:15] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:15] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[19:32:15] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:15] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6蜂蜜苹果糖 *1
+[19:32:16] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:16] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6动力燃料 *16
+[19:32:17] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:17] [main/INFO]: [CHAT] §f咖啡杯 §7掉在了地上
+[19:32:19] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:20] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:20] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r母亲的南瓜派 *1
+[19:32:20] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:20] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§d帕秋莉的魔法书 *1
+[19:32:21] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:21] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6圣人蛋 *1
+[19:32:27] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:32:27] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[19:32:29] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:29] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§f咖啡杯 *1
+[19:32:29] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:30] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:32:30] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[19:32:30] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:30] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:32:31] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:32] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:32:32] [main/INFO]: [CHAT] §6动力燃料 §7掉在了地上
+[19:32:32] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:32] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§d帕秋莉的魔法书 *1
+[19:32:32] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:32] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:32:32] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:32] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[19:32:32] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:32] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[19:32:33] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:33] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[19:32:34] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:34] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r母亲的南瓜派 *1
+[19:32:35] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:35] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6圣人蛋 *1
+[19:32:35] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:35] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§f爆紫米花 *1
+[19:32:35] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:35] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6香酥鸡腿 *1
+[19:32:37] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:37] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[19:32:37] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:37] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r水精公主 *1
+[19:32:37] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:32:37] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[19:32:38] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:32:38] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§ePiece of Eden *1
+[19:32:38] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:38] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f爆紫米花 *1
+[19:32:39] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:39] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r风灵的角笛 *1
+[19:32:39] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:39] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[19:32:40] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:40] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f咖啡杯 *1
+[19:32:40] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:40] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:32:41] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:32:41] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§d星导馆学园徽章 *1
+[19:32:42] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:42] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§8藏宝图的另一部分 *1
+[19:32:42] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:32:42] [main/INFO]: [CHAT] §6香酥鸡腿 §7掉在了地上
+[19:32:43] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:43] [main/INFO]: [CHAT] §8藏宝图的另一部分 §7掉在了地上
+[19:32:44] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:32:44] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:32:44] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:44] [main/INFO]: [CHAT] 银龙 §7掉在了地上
+[19:32:44] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:44] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§ePiece of Eden *1
+[19:32:45] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:32:45] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r母亲的南瓜派 *1
+[19:32:46] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:46] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:46] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[19:32:48] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:48] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6香酥鸡腿 *1
+[19:32:48] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:32:48] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§ePiece of Eden *1
+[19:32:49] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:49] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[19:32:51] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:32:51] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r母亲的南瓜派 *1
+[19:32:51] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:51] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r银龙 *1
+[19:32:53] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:53] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§f爆紫米花 *1
+[19:32:53] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:53] [main/INFO]: [CHAT] §f咖啡杯 §7掉在了地上
+[19:32:54] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:32:54] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§ePiece of Eden *1
+[19:32:55] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:55] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r水精公主 *1
+[19:32:57] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:32:57] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6蜂蜜苹果糖 *1
+[19:32:57] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6圣人蛋 *1
+[19:32:58] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:58] [main/INFO]: [CHAT] §ePiece of Eden §7掉在了地上
+[19:32:58] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:32:58] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§e强化水晶 *1
+[19:32:59] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:32:59] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6蜂蜜苹果糖 *1
+[19:33:00] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:00] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6动力燃料 *16
+[19:33:01] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:33:01] [main/INFO]: [CHAT] §8藏宝图的另一部分 §7掉在了地上
+[19:33:01] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:01] [main/INFO]: [CHAT] §ePiece of Eden §7掉在了地上
+[19:33:03] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:03] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[19:33:03] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:03] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[19:33:04] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f
+[19:33:04] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r母亲的南瓜派 *1
+[19:33:04] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:04] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:33:05] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:33:05] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:33:05] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:05] [main/INFO]: [CHAT] §f爆紫米花 §7掉在了地上
+[19:33:05] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:33:05] [main/INFO]: [CHAT] §6动力燃料 §7掉在了地上
+[19:33:05] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:05] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:33:06] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:06] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:33:06] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:07] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:07] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6蜂蜜苹果糖 *1
+[19:33:08] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:08] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:33:09] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:09] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6蜂蜜苹果糖 *1
+[19:33:09] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:09] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r水精公主 *1
+[19:33:10] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:33:11] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:33:11] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r塩魚焼き *1
+[19:33:11] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:11] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:11] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f爆紫米花 *1
+[19:33:11] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:11] [main/INFO]: [CHAT] §ePiece of Eden §7掉在了地上
+[19:33:12] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:33:12] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:33:13] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:13] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§ePiece of Eden *1
+[19:33:14] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:33:14] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r母亲的南瓜派 *1
+[19:33:15] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:33:15] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r§f咖啡杯 *1
+[19:33:16] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:33:16] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:16] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[19:33:18] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:19] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:19] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f咖啡杯 *1
+[19:33:20] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:20] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:33:21] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:21] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f爆紫米花 *1
+[19:33:21] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:33:21] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§ePiece of Eden *1
+[19:33:22] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:22] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r塩魚焼き *1
+[19:33:22] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:22] [main/INFO]: [CHAT] §6香酥鸡腿 §7掉在了地上
+[19:33:22] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:22] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6动力燃料 *16
+[19:33:23] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:33:23] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§8藏宝图的另一部分 *1
+[19:33:24] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:33:24] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f咖啡杯 *1
+[19:33:25] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:33:25] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§8藏宝图的另一部分 *1
+[19:33:25] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:33:25] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[19:33:25] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:27] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:33:27] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f咖啡杯 *1
+[19:33:28] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:33:28] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r塩魚焼き *1
+[19:33:29] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:29] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6蜂蜜苹果糖 *1
+[19:33:31] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:31] [main/INFO]: [CHAT] §8藏宝图的另一部分 §7掉在了地上
+[19:33:32] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:33:32] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r银龙 *1
+[19:33:32] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:32] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r塩魚焼き *1
+[19:33:32] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:32] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§d帕秋莉的魔法书 *1
+[19:33:32] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:33:32] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r0xC *1
+[19:33:32] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:33:32] [main/INFO]: [CHAT] §6蜂蜜苹果糖 §7掉在了地上
+[19:33:33] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:33] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§f咖啡杯 *1
+[19:33:33] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:33:33] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6圣人蛋 *1
+[19:33:33] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:33:33] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§ePiece of Eden *1
+[19:33:35] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:33:35] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§8藏宝图的另一部分 *1
+[19:33:36] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:33:36] [main/INFO]: [CHAT] §8藏宝图的另一部分 §7掉在了地上
+[19:33:37] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:33:37] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f爆紫米花 *1
+[19:33:38] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:33:38] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f爆紫米花 *1
+[19:33:38] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:33:38] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6香酥鸡腿 *1
+[19:33:38] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:39] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:33:39] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6蜂蜜苹果糖 *1
+[19:33:39] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:39] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[19:33:40] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:40] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r塩魚焼き *1
+[19:33:40] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:33:40] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§ePiece of Eden *1
+[19:33:41] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:33:41] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6圣人蛋 *1
+[19:33:41] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:33:41] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6蜂蜜苹果糖 *1
+[19:33:42] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:42] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f爆紫米花 *1
+[19:33:43] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:43] [main/INFO]: [CHAT] §6香酥鸡腿 §7掉在了地上
+[19:33:43] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6香酥鸡腿 *1
+[19:33:43] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:43] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r塩魚焼き *1
+[19:33:44] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:44] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[19:33:44] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f
+[19:33:45] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:45] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[19:33:46] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:46] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r塩魚焼き *1
+[19:33:46] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:33:46] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6蜂蜜苹果糖 *1
+[19:33:46] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:46] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[19:33:46] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:46] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[19:33:47] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:33:47] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§d帕秋莉的魔法书 *1
+[19:33:47] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f
+[19:33:47] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r火神之光 *1
+[19:33:47] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:33:47] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r风灵的角笛 *1
+[19:33:47] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f
+[19:33:48] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:48] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f咖啡杯 *1
+[19:33:48] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:48] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6圣人蛋 *1
+[19:33:50] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:50] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§8藏宝图的另一部分 *1
+[19:33:51] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:51] [main/INFO]: [CHAT] §8藏宝图的另一部分 §7掉在了地上
+[19:33:51] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:51] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r勇气卷轴 *1
+[19:33:51] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:51] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[19:33:53] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:54] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:54] [main/INFO]: [CHAT] §f咖啡杯 §7掉在了地上
+[19:33:55] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:55] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6圣人蛋 *1
+[19:33:57] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:57] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6蜂蜜苹果糖 *1
+[19:33:57] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:33:57] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r§6蜂蜜苹果糖 *1
+[19:33:59] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:33:59] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[19:33:59] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:33:59] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6香酥鸡腿 *1
+[19:33:59] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:33:59] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6香酥鸡腿 *1
+[19:34:00] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:34:01] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:34:01] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§d帕秋莉的魔法书 *1
+[19:34:02] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:02] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§8藏宝图的另一部分 *1
+[19:34:02] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:02] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:02] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§8藏宝图的另一部分 *1
+[19:34:02] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:02] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[19:34:02] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:34:02] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:02] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[19:34:03] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§8藏宝图的另一部分 *1
+[19:34:03] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:34:04] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:34:04] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:34:04] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:04] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r塩魚焼き *1
+[19:34:05] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:05] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[19:34:07] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:07] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r塩魚焼き *1
+[19:34:07] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:07] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§8藏宝图的另一部分 *1
+[19:34:09] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:09] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r母亲的南瓜派 *1
+[19:34:09] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:34:09] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[19:34:10] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:34:10] [main/INFO]: [CHAT] §f咖啡杯 §7掉在了地上
+[19:34:11] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:11] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f咖啡杯 *1
+[19:34:11] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:34:11] [main/INFO]: [CHAT] §f爆紫米花 §7掉在了地上
+[19:34:11] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:11] [main/INFO]: [CHAT] 风灵的角笛 §7掉在了地上
+[19:34:13] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:13] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§f爆紫米花 *1
+[19:34:13] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:13] [main/INFO]: [CHAT] §6蜂蜜苹果糖 §7掉在了地上
+[19:34:13] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:13] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:34:14] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:14] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[19:34:15] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:15] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[19:34:15] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:15] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f爆紫米花 *1
+[19:34:16] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:34:16] [main/INFO]: [CHAT] 翠绿风暴 §7掉在了地上
+[19:34:17] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:34:17] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f咖啡杯 *1
+[19:34:17] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:34:17] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r母亲的南瓜派 *1
+[19:34:17] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:34:17] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6香酥鸡腿 *1
+[19:34:18] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:18] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r母亲的南瓜派 *1
+[19:34:19] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:19] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[19:34:20] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:20] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r塩魚焼き *1
+[19:34:22] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:22] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r翠绿风暴 *1
+[19:34:22] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:34:23] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:34:23] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6香酥鸡腿 *1
+[19:34:23] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:23] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§8藏宝图的另一部分 *1
+[19:34:23] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:23] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[19:34:24] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:24] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r塩魚焼き *1
+[19:34:24] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:24] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[19:34:25] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:34:25] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6蜂蜜苹果糖 *1
+[19:34:26] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:26] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f爆紫米花 *1
+[19:34:26] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:26] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[19:34:27] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:27] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§c夢想天生 *1
+[19:34:27] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:34:27] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r空斩秘籍 *1
+[19:34:28] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:28] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§f咖啡杯 *1
+[19:34:28] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:28] [main/INFO]: [CHAT] §6蜂蜜苹果糖 §7掉在了地上
+[19:34:29] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:34:29] [main/INFO]: [CHAT] §d星导馆学园徽章 §7掉在了地上
+[19:34:30] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:30] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6蜂蜜苹果糖 *1
+[19:34:30] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:30] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6动力燃料 *16
+[19:34:31] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:31] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6香酥鸡腿 *1
+[19:34:31] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:32] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:33] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:34:34] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:34] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[19:34:37] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:37] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f咖啡杯 *1
+[19:34:38] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§f咖啡杯 *1
+[19:34:38] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:38] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r火神之光 *1
+[19:34:38] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:40] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:40] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:40] [main/INFO]: [CHAT] §f爆紫米花 §7掉在了地上
+[19:34:41] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:34:41] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:34:42] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:42] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[19:34:43] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:34:43] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r0xA *1
+[19:34:43] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:43] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§ePiece of Eden *1
+[19:34:44] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:44] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:34:44] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:44] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:34:45] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:45] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6香酥鸡腿 *1
+[19:34:47] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:47] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r火神之光 *1
+[19:34:47] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:47] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f咖啡杯 *1
+[19:34:48] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f
+[19:34:48] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§8藏宝图的另一部分 *1
+[19:34:48] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:34:50] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:50] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§8藏宝图的另一部分 *1
+[19:34:51] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:34:51] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:51] [main/INFO]: [CHAT] 母亲的南瓜派 §7掉在了地上
+[19:34:52] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:52] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[19:34:52] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:52] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:34:52] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:52] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§ePiece of Eden *1
+[19:34:53] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:53] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r塩魚焼き *1
+[19:34:53] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:54] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:34:54] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r火神的光辉 *1
+[19:34:55] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:55] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f咖啡杯 *1
+[19:34:56] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:56] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6香酥鸡腿 *1
+[19:34:57] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:34:57] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:34:57] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:57] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[19:34:57] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:57] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r银龙 *1
+[19:34:58] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:34:59] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:34:59] [main/INFO]: [CHAT] §6动力燃料 §7掉在了地上
+[19:34:59] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:34:59] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r§6蜂蜜苹果糖 *1
+[19:34:59] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6圣人蛋 *1
+[19:35:00] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:00] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r母亲的南瓜派 *1
+[19:35:00] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:00] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§8藏宝图的另一部分 *1
+[19:35:01] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:01] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6圣人蛋 *1
+[19:35:01] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:35:01] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6蜂蜜苹果糖 *1
+[19:35:01] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:35:01] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[19:35:02] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:35:02] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§d帕秋莉的魔法书 *1
+[19:35:03] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:03] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r母亲的南瓜派 *1
+[19:35:03] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:03] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§e賢者の石 *1
+[19:35:05] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:05] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r塩魚焼き *1
+[19:35:05] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[19:35:06] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:35:06] [main/INFO]: [CHAT] §ePiece of Eden §7掉在了地上
+[19:35:06] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:06] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r火神之光 *1
+[19:35:06] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:35:07] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:35:07] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6动力燃料 *16
+[19:35:07] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:07] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[19:35:08] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:08] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r风灵的角笛 *1
+[19:35:08] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:08] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§f爆紫米花 *1
+[19:35:09] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:09] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r塩魚焼き *1
+[19:35:09] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:35:09] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[19:35:10] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:10] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6香酥鸡腿 *1
+[19:35:10] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:35:10] [main/INFO]: [CHAT] §6动力燃料 §7掉在了地上
+[19:35:11] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:11] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6蜂蜜苹果糖 *1
+[19:35:11] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:11] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6圣人蛋 *1
+[19:35:12] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:12] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6圣人蛋 *1
+[19:35:25] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:25] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§d帕秋莉的魔法书 *1
+[19:35:26] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:35:26] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f咖啡杯 *1
+[19:35:26] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:26] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r0xC *1
+[19:35:26] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:26] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§ePiece of Eden *1
+[19:35:27] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:35:27] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6动力燃料 *16
+[19:35:28] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:28] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r塩魚焼き *1
+[19:35:28] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:28] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6蜂蜜苹果糖 *1
+[19:35:29] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:35:29] [main/INFO]: [CHAT] §f爆紫米花 §7掉在了地上
+[19:35:30] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:30] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[19:35:33] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:33] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r水精公主 *1
+[19:35:34] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:35:34] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6香酥鸡腿 *1
+[19:35:37] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:37] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6动力燃料 *16
+[19:35:37] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:35:37] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r塩魚焼き *1
+[19:35:38] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:35:38] [main/INFO]: [CHAT] §f咖啡杯 §7掉在了地上
+[19:35:38] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:38] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§ePiece of Eden *1
+[19:35:38] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:38] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f咖啡杯 *1
+[19:35:39] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:39] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r母亲的南瓜派 *1
+[19:35:40] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:35:42] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:35:42] [main/INFO]: [CHAT] §6香酥鸡腿 §7掉在了地上
+[19:35:44] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:44] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r塩魚焼き *1
+[19:35:44] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:35:44] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r母亲的南瓜派 *1
+[19:35:44] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6香酥鸡腿 *1
+[19:35:46] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:35:46] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:46] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6香酥鸡腿 *1
+[19:35:47] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:47] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f爆紫米花 *1
+[19:35:47] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:47] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r0xF *1
+[19:35:48] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:48] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r塩魚焼き *1
+[19:35:48] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:35:48] [main/INFO]: [CHAT] §ePiece of Eden §7掉在了地上
+[19:35:48] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:48] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:48] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r母亲的南瓜派 *1
+[19:35:49] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:35:49] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:35:50] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:50] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:35:50] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:50] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r母亲的南瓜派 *1
+[19:35:51] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:51] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§8藏宝图的另一部分 *1
+[19:35:51] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:51] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§8藏宝图的另一部分 *1
+[19:35:53] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:53] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:35:53] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:35:53] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6圣人蛋 *1
+[19:35:53] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:53] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:55] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:55] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r母亲的南瓜派 *1
+[19:35:56] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f
+[19:35:56] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r母亲的南瓜派 *1
+[19:35:56] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:35:56] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r银龙 *1
+[19:35:56] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:35:56] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r塩魚焼き *1
+[19:35:57] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:57] [main/INFO]: [CHAT] §f咖啡杯 §7掉在了地上
+[19:35:57] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:57] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§9黑化的圣女果 *1
+[19:35:57] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:35:57] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r§6香酥鸡腿 *1
+[19:35:58] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:35:58] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§ePiece of Eden *1
+[19:35:58] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:35:58] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[19:35:58] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:35:58] [main/INFO]: [CHAT] 母亲的南瓜派 §7掉在了地上
+[19:35:59] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:35:59] [main/INFO]: [CHAT] 母亲的南瓜派 §7掉在了地上
+[19:36:00] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§8藏宝图的另一部分 *1
+[19:36:01] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:01] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[19:36:01] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:01] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6香酥鸡腿 *1
+[19:36:03] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:03] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r火神的光辉 *1
+[19:36:03] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:36:03] [main/INFO]: [CHAT] §6蜂蜜苹果糖 §7掉在了地上
+[19:36:04] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:04] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[19:36:06] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:06] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§ePiece of Eden *1
+[19:36:07] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:07] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:07] [main/INFO]: [CHAT] §f咖啡杯 §7掉在了地上
+[19:36:07] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:36:07] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:36:08] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r§f爆紫米花 *1
+[19:36:09] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:36:09] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:36:10] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:36:10] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:36:10] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6香酥鸡腿 *1
+[19:36:10] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:10] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[19:36:11] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:11] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f咖啡杯 *1
+[19:36:12] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:12] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r银龙 *1
+[19:36:12] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§ePiece of Eden *1
+[19:36:12] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:12] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[19:36:13] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:36:14] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:14] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§f爆紫米花 *1
+[19:36:14] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:14] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6圣人蛋 *1
+[19:36:15] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:15] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r§ePiece of Eden *1
+[19:36:15] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:36:15] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r火神之光 *1
+[19:36:16] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:16] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[19:36:17] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:18] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:36:18] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f咖啡杯 *1
+[19:36:21] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:36:21] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[19:36:21] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:21] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f爆紫米花 *1
+[19:36:22] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r火神的光辉 *1
+[19:36:22] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:22] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:22] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:36:23] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:23] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6圣人蛋 *1
+[19:36:23] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:36:23] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§8藏宝图的另一部分 *1
+[19:36:24] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:36:24] [main/INFO]: [CHAT] §6香酥鸡腿 §7掉在了地上
+[19:36:24] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:36:24] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[19:36:25] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:36:25] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r母亲的南瓜派 *1
+[19:36:26] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:26] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:36:26] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:36:27] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:36:27] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:36:28] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:36:28] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[19:36:29] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:36:29] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6圣人蛋 *1
+[19:36:29] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:36:29] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r火神之光 *1
+[19:36:31] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:31] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:31] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[19:36:31] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[19:36:32] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:36:32] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[19:36:35] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:36:35] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6香酥鸡腿 *1
+[19:36:37] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:58] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:36:58] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§8藏宝图的另一部分 *1
+[19:36:59] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:36:59] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6香酥鸡腿 *1
+[19:37:40] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:37:40] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r塩魚焼き *1
+[19:37:41] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:37:41] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r母亲的南瓜派 *1
+[19:37:41] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:37:41] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:37:50] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:37:50] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§d帕秋莉的魔法书 *1
+[19:38:04] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:38:04] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r火神之光 *1
+[19:38:08] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:38:08] [main/INFO]: [CHAT] 母亲的南瓜派 §7掉在了地上
+[19:38:12] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:38:12] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r塩魚焼き *1
+[19:38:16] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:38:16] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§f爆紫米花 *1
+[19:38:21] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:38:21] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[19:38:25] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:38:25] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§9黑化的圣女果 *1
+[19:38:31] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:38:31] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6蜂蜜苹果糖 *1
+[19:38:39] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:38:39] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6香酥鸡腿 *1
+[19:38:41] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:38:41] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r水精公主 *1
+[19:38:43] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:38:43] [main/INFO]: [CHAT] 0xA §7掉在了地上
+[19:38:44] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:38:44] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r翠绿风暴 *1
+[19:38:47] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:38:47] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r母亲的南瓜派 *1
+[19:38:47] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:38:47] [main/INFO]: [CHAT] 母亲的南瓜派 §7掉在了地上
+[19:38:48] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:38:48] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[19:38:50] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:38:50] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r塩魚焼き *1
+[19:39:35] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:39:51] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:39:51] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6蜂蜜苹果糖 *1
+[19:39:52] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:39:52] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f咖啡杯 *1
+[19:39:55] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:39:55] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§ePiece of Eden *1
+[19:39:55] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:39:55] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r塩魚焼き *1
+[19:39:55] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:39:55] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f爆紫米花 *1
+[19:39:56] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:39:56] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r翠绿风暴 *1
+[19:39:57] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:39:57] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:39:57] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r银龙 *1
+[19:39:58] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:39:58] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6动力燃料 *16
+[19:39:59] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:41:34] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:41:34] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r银龙 *1
+[19:41:34] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r母亲的南瓜派 *1
+[19:41:37] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:41:37] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r勇气卷轴 *1
+[19:41:39] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:41:39] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r塩魚焼き *1
+[19:41:44] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:41:44] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r母亲的南瓜派 *1
+[19:41:52] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:41:52] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[19:42:02] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:42:02] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§ePiece of Eden *1
+[19:42:03] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:42:03] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r银龙 *1
+[19:42:03] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:42:03] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[19:42:05] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:42:05] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§ePiece of Eden *1
+[19:42:09] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:42:11] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:42:11] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r风灵的角笛 *1
+[19:43:54] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:43:54] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f咖啡杯 *1
+[19:43:56] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:43:56] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r火神之光 *1
+[19:43:58] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:43:58] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[19:43:58] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:43:58] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r火神的光辉 *1
+[19:44:02] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:44:04] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:44:04] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§f爆紫米花 *1
+[19:45:07] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:45:07] [main/INFO]: [CHAT] 银龙 §7掉在了地上
+[19:45:14] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:45:14] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r塩魚焼き *1
+[19:46:08] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:46:08] [main/INFO]: [CHAT] §d帕秋莉的魔法书 §7掉在了地上
+[19:46:09] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:46:09] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f咖啡杯 *1
+[19:46:09] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:46:09] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r火神的光辉 *1
+[19:46:11] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:46:11] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[19:46:12] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:46:12] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[19:46:15] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:46:15] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:46:19] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:46:19] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§ePiece of Eden *1
+[19:46:21] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:46:21] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[19:46:28] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:46:28] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6蜂蜜苹果糖 *1
+[19:46:28] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:46:28] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r§6香酥鸡腿 *1
+[19:46:54] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:46:54] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[19:46:55] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:46:56] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:46:56] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[19:46:58] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:46:58] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§f爆紫米花 *1
+[19:47:08] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:47:08] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[19:47:10] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:47:10] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[19:47:19] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:47:19] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[19:47:25] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:47:25] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r火神的光辉 *1
+[19:47:26] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:47:26] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[19:47:27] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[19:47:27] [main/INFO]: [CHAT] 风灵的角笛 §7掉在了地上
+[19:47:29] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:47:29] [main/INFO]: [CHAT] §6香酥鸡腿 §7掉在了地上
+[19:47:31] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f
+[19:47:31] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[19:47:31] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r水精公主 *1
+[19:47:32] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:47:32] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6动力燃料 *16
+[19:47:32] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:47:32] [main/INFO]: [CHAT] §f爆紫米花 §7掉在了地上
+[19:47:34] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:47:34] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[19:47:35] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:47:35] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[19:47:39] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[19:47:39] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[19:49:00] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:49:00] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§f爆紫米花 *1
+[19:49:07] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:49:07] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§ePiece of Eden *1
+[19:51:26] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:51:26] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[19:51:29] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:51:29] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[19:51:34] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[19:51:38] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[19:51:38] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r0xF *1
+[19:51:43] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:51:43] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f 中找到了 §r母亲的南瓜派 *1
+[19:51:45] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f§6！
+[19:51:45] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[19:52:00] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f
+[19:52:00] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r勇气卷轴 *1
+[19:52:23] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[19:52:23] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f咖啡杯 *1
+[19:52:23] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f
+[19:52:23] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[19:55:20] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[19:55:20] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r风灵的角笛 *1
+[20:16:03] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:16:03] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6蜂蜜苹果糖 *1
+[20:16:26] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSPIDER §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[20:16:26] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[20:18:31] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f§6！
+[20:18:31] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6椒盐烤土豆 *1
+[20:18:44] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:19:38] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[20:19:38] [main/INFO]: [CHAT] §6蜂蜜苹果糖 §7掉在了地上
+[20:19:57] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:19:57] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r水精公主 *1
+[20:20:00] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE_VILLAGER §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[20:20:00] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r火神之光 *1
+[20:21:20] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f
+[20:21:20] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r塩魚焼き *1
+[20:21:42] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:21:59] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[20:21:59] [main/INFO]: [CHAT] §f咖啡杯 §7掉在了地上
+[20:49:46] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:49:46] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r母亲的南瓜派 *1
+[20:50:22] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[20:50:22] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r0xC *1
+[20:50:41] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[20:52:17] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:52:17] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r塩魚焼き *1
+[20:53:04] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:53:04] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6圣人蛋 *1
+[20:53:39] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r塩魚焼き *1
+[20:53:57] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:53:57] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6椒盐烤土豆 *1
+[20:54:12] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:54:12] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§d帕秋莉的魔法书 *1
+[20:57:08] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e23§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:57:08] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r母亲的南瓜派 *1
+[20:57:34] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f
+[20:57:34] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§d帕秋莉的魔法书 *1
+[20:59:02] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[20:59:02] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f 中找到了 §r§ePiece of Eden *1
+[20:59:24] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[20:59:24] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[20:59:38] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[20:59:38] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§f咖啡杯 *1
+[20:59:40] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[20:59:40] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[21:00:41] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:00:41] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f 中找到了 §r§6香酥鸡腿 *1
+[21:00:51] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:00:51] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6圣人蛋 *1
+[21:01:11] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:01:11] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[21:02:01] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:02:01] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[21:02:06] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[21:02:06] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r火神的光辉 *1
+[21:02:11] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:02:11] [main/INFO]: [CHAT] §6蜂蜜苹果糖 §7掉在了地上
+[21:02:12] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:02:12] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§ePiece of Eden *1
+[21:02:17] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:02:18] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f
+[21:02:18] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[21:02:27] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:02:27] [main/INFO]: [CHAT] §6蜂蜜苹果糖 §7掉在了地上
+[21:02:29] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:02:29] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6圣人蛋 *1
+[21:02:36] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:02:36] [main/INFO]: [CHAT] §8藏宝图的另一部分 §7掉在了地上
+[21:02:41] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:02:41] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6圣人蛋 *1
+[21:02:53] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:02:53] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[21:03:48] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:03:48] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f爆紫米花 *1
+[21:04:18] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:04:18] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r塩魚焼き *1
+[21:05:03] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:05:10] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[21:05:10] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6圣人蛋 *1
+[21:05:21] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:05:21] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6香酥鸡腿 *1
+[21:05:25] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[21:05:25] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r母亲的南瓜派 *1
+[21:05:34] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[21:05:34] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[21:05:38] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:05:38] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f爆紫米花 *1
+[21:05:41] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:05:41] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r母亲的南瓜派 *1
+[21:05:55] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:05:55] [main/INFO]: [CHAT] §6香酥鸡腿 §7掉在了地上
+[21:05:58] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:05:58] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6香酥鸡腿 *1
+[21:06:04] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:06:04] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r翠绿风暴 *1
+[21:06:21] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f
+[21:06:21] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[21:06:31] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:06:31] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f 中找到了 §r§f爆紫米花 *1
+[21:06:35] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:06:35] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[21:06:35] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f爆紫米花 *1
+[21:06:39] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:06:39] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§8藏宝图的另一部分 *1
+[21:06:41] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:06:41] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6蜂蜜苹果糖 *1
+[21:06:50] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:06:50] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[21:06:52] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:06:52] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f 中找到了 §r塩魚焼き *1
+[21:06:56] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:06:56] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r塩魚焼き *1
+[21:07:29] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSPIDER §cLv.§e24§f§6！
+[21:07:29] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[21:08:12] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:08:12] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6香酥鸡腿 *1
+[21:08:45] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:08:45] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r塩魚焼き *1
+[21:08:47] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f
+[21:08:53] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:08:53] [main/INFO]: [CHAT] §6香酥鸡腿 §7掉在了地上
+[21:08:53] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:08:53] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6蜂蜜苹果糖 *1
+[21:08:56] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f
+[21:08:56] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§6圣人蛋 *1
+[21:08:58] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[21:08:58] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[21:09:03] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:09:03] [main/INFO]: [CHAT] §6蜂蜜苹果糖 §7掉在了地上
+[21:09:10] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[21:09:10] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f咖啡杯 *1
+[21:09:26] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[21:09:26] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[21:09:46] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[21:09:46] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r塩魚焼き *1
+[21:09:50] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[21:09:50] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6香酥鸡腿 *1
+[21:09:52] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[21:09:52] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f 中找到了 §r§f咖啡杯 *1
+[21:09:54] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[21:09:59] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[21:10:10] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f§6！
+[21:10:14] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§9黑化的圣女果 *1
+[21:10:31] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:10:31] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[21:11:03] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:12:12] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:12:43] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:12:43] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f爆紫米花 *1
+[21:12:49] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:12:49] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[21:13:01] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[21:13:08] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f
+[21:13:08] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r翠绿风暴 *1
+[21:13:24] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f
+[21:13:24] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[21:13:25] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[21:13:25] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6香酥鸡腿 *1
+[21:13:40] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:13:42] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[21:13:42] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r0xF *1
+[21:13:45] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:13:45] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r翠绿风暴 *1
+[21:13:50] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[21:13:50] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[21:13:53] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:13:53] [main/INFO]: [CHAT] §6香酥鸡腿 §7掉在了地上
+[21:13:58] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:13:58] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f 中找到了 §r§8藏宝图的另一部分 *1
+[21:13:59] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:13:59] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[21:14:03] [main/INFO]: [CHAT] ChibaKanako §6超凶！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:14:03] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§8藏宝图的另一部分 *1
+[21:14:14] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:14:14] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6香酥鸡腿 *1
+[21:14:15] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:14:15] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f 中找到了 §r§f爆紫米花 *1
+[21:14:16] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:14:16] [main/INFO]: [CHAT] §6香酥鸡腿 §7掉在了地上
+[21:14:20] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:14:20] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f爆紫米花 *1
+[21:14:23] [main/INFO]: [CHAT] ChibaKanako §6完成了一次双杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:14:23] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§f咖啡杯 *1
+[21:14:50] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fWITCH §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[21:15:05] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:15:19] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fWITCH §cLv.§e24§f§6！
+[21:15:19] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§8藏宝图的另一部分 *1
+[21:17:27] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§2§b§7§l§c雾雨火花§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f
+[21:17:27] [main/INFO]: [CHAT] §f爆紫米花 §7掉在了地上
+[21:18:07] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:18:07] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[21:18:09] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f§6！
+[21:18:09] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f 中找到了 §r§d帕秋莉的魔法书 *1
+[21:18:09] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r翠绿风暴 *1
+[21:18:11] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f§6！
+[21:18:11] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6椒盐烤土豆 *1
+[21:18:19] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:18:19] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r母亲的南瓜派 *1
+[21:18:34] [main/INFO]: [CHAT] ChibaKanako §6险胜§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f §6，使用的武器是§r §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:18:34] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6动力燃料 *16
+[21:19:07] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:19:07] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§e賢者の石 *1
+[21:19:09] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6无情击杀！
+[21:19:09] [main/INFO]: [CHAT] 风灵的角笛 §7掉在了地上
+[21:19:18] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:19:25] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:19:25] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r塩魚焼き *1
+[21:19:25] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:19:25] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r火神之光 *1
+[21:19:34] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[21:19:34] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6蜂蜜苹果糖 *1
+[21:19:34] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:19:34] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r塩魚焼き *1
+[21:19:43] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f
+[21:19:43] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§6蜂蜜苹果糖 *1
+[21:22:05] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:22:06] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r母亲的南瓜派 *1
+[21:22:35] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:22:35] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§8藏宝图的另一部分 *1
+[21:23:47] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§6圣人蛋 *1
+[21:24:22] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捏死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:24:22] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f 中找到了 §r§6圣人蛋 *1
+[21:24:39] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §e[神灵种] §fSLIME §cLv.§e24§f
+[21:24:39] [main/INFO]: [CHAT] 塩魚焼き §7掉在了地上
+[21:24:42] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:24:42] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f 中找到了 §r风灵的角笛 *1
+[21:26:02] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[21:26:02] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§6香酥鸡腿 *1
+[21:26:11] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[21:26:11] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r母亲的南瓜派 *1
+[21:27:13] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:27:13] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r风灵的角笛 *1
+[21:27:17] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:27:17] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§ePiece of Eden *1
+[21:27:45] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:27:45] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r塩魚焼き *1
+[21:28:03] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[21:28:03] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f咖啡杯 *1
+[21:28:20] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:28:20] [main/INFO]: [CHAT] 火神之光 §7掉在了地上
+[21:28:24] [main/INFO]: [CHAT] ChibaKanako §6Triple Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:28:24] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6蜂蜜苹果糖 *1
+[21:28:42] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:28:42] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§ePiece of Eden *1
+[21:29:03] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[21:29:03] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r翠绿风暴 *1
+[21:30:44] [main/INFO]: [CHAT] §0[黑化] §e[神灵种] §fZOMBIE §cLv.§e24§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[21:30:44] [main/INFO]: [CHAT] §6圣人蛋 §7掉在了地上
+[21:31:11] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §e[神灵种] §fSKELETON §cLv.§e24§f§6！
+[21:31:11] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f爆紫米花 *1
+[22:16:03] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[23:37:39] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §3[巨人种] §fSLIME §cLv.§e16§f
+[23:37:39] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §3[巨人种] §fSLIME §cLv.§e16§f 中找到了 §r§6椒盐烤土豆 *1
+[23:37:58] [main/INFO]: [CHAT] §0[黑化] §2[地精种] §fSPIDER §cLv.§e3§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[23:37:58] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r抗拒 *1
+[23:38:06] [main/INFO]: [CHAT] §0[黑化] §4[吸血种] §fWITHER_SKELETON §cLv.§e2§f §6被§r ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6打成了筛子！
+[23:38:06] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §4[吸血种] §fWITHER_SKELETON §cLv.§e2§f 中找到了 §r强力的鞋 *1
+[23:38:24] [main/INFO]: [CHAT] §0[黑化] §c[龙精种] §fZOMBIE §cLv.§e17§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[23:38:24] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r塩魚焼き *1
+[23:38:47] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6捶死了§r §0[黑化] §2[地精种] §fSHULKER §cLv.§e3§f§6！
+[23:38:47] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§2碎尸斧 *1
+[23:39:19] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6(ノ=Д=)ノ┻━┻§r §0[黑化] §d[妖魔种] §fSTRAY §cLv.§e9§f
+[23:39:19] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r攀岩者钉鞋 *1
+[23:39:31] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6Pia!<(=ｏ ‵-′)ノ☆§r §0[黑化] §3[巨人种] §fSPIDER §cLv.§e16§f
+[23:39:31] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6板烧猪排 *1
+[23:40:08] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[23:40:08] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r抗拒 *1
+[23:41:05] [main/INFO]: [CHAT] §0[黑化] §3[巨人种] §fZOMBIE §cLv.§e16§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[23:41:05] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§e冈格尼尔之枪 *1
+[23:41:44] [main/INFO]: [CHAT] ChibaKanako §6正在大杀特杀！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[23:41:44] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§e迷你八卦炉 *1
+[23:43:49] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6砸死了§r §0[黑化] §e[神灵种] §fSKELETON §cLv.§e23§f§6！
+[23:43:49] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r塩魚焼き *1
+[23:44:04] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §c[龙精种] §fSPIDER §cLv.§e18§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[23:44:04] [main/INFO]: [CHAT] §f咖啡杯 §7掉在了地上
+[23:44:08] [main/INFO]: [CHAT] §0[黑化] §f[幻想种] §fWITCH §cLv.§e22§f §6惨死于 §fChibaKanako§6 的 §r§0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[23:44:08] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§6动力燃料 *16
+[23:44:31] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§6圣人蛋 *1
+[23:44:45] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[23:44:45] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§f爆紫米花 *1
+[23:45:09] [main/INFO]: [CHAT] ChibaKanako §6用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6揉死了§r §0[黑化] §3[巨人种] §fZOMBIE §cLv.§e16§f§6！
+[23:45:09] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§c莱瓦汀 *1
+[23:45:45] [main/INFO]: [CHAT] §6一只 §r§0[黑化] §f[幻想种] §fWITCH §cLv.§e22§f§6 突然失去了梦想，被路过的 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6变成了咸鱼！
+[23:45:45] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§ePiece of Eden *1
+[23:46:01] [main/INFO]: [CHAT] §fChibaKanako §f计分 §61083.8 §f/ §e9 §f黑化击杀 / §a3 §f助攻 / §b77 §f怪物击杀 / §40 §f死亡
+[23:46:41] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[23:46:41] [main/INFO]: [CHAT] §7什么东西掉到了地上...§r§c莱瓦汀 *1
+[23:52:19] [main/INFO]: [CHAT] §0[黑化] §3[巨人种] §fENDERMAN §cLv.§e16§f §6死于 §rChibaKanako§6 的利刃 §0[§r§9千葉氏の月星紋§0] §6之下！
+[23:52:19] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r§f爆紫米花 *1
+[23:53:08] [main/INFO]: [CHAT] §0[黑化] §3[巨人种] §fCREEPER §cLv.§e16§f §6被 §rChibaKanako§6 用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6折磨至死！
+[23:53:08] [main/INFO]: [CHAT] ChibaKanako §7获得战利品 §r银龙 *1
+[23:54:09] [main/INFO]: [CHAT] ChibaKanako §6Double Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[23:54:09] [main/INFO]: [CHAT] ChibaKanako §7拾取了 §r§2恐怖的面具 *1
+[23:54:43] [main/INFO]: [CHAT] §6勇敢的 §fChibaKanako §6使用 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6击败了§7§0[黑化] §3[巨人种] §fSPIDER §cLv.§e15§f§6！
+[23:54:43] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §rWILD STARS *1
+[23:55:06] [main/INFO]: [CHAT] §0[黑化] §3[巨人种] §fHUSK §cLv.§e15§f §6死于 §rChibaKanako§6 的利刃 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0] §6之下！
+[23:55:06] [main/INFO]: [CHAT] §7不得了不得了，§rChibaKanako §7拿到了 §r§a早苗祛魔棒 *1
+[23:55:21] [main/INFO]: [CHAT] ChibaKanako §6已经超神了！使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[23:55:21] [main/INFO]: [CHAT] ChibaKanako 似乎发现了什么不得了的东西... §r§f爆紫米花 *1
+[23:57:24] [main/INFO]: [CHAT] ChibaKanako §6Ultra Kill! 使用的武器是 §0[§r§0§0§0§0§0§1§7§1§6§l§c千叶伤符§0]
+[23:57:24] [main/INFO]: [CHAT] ChibaKanako §7从 §r§0[黑化] §3[巨人种] §fZOMBIE §cLv.§e16§f 中找到了 §r§9飞翔的肥皂 *1
+1168

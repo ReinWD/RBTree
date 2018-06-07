@@ -8,11 +8,17 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Random;
 
 public class Main {
     File file = new File("str");
     BufferedReader reader= new BufferedReader(new FileReader(file));
     String last;
+    private Random random;
+    ArrayList<String> strList;
+    RBTChecker checker;
 
     private void next() throws IOException {
         String buffer;
@@ -25,6 +31,7 @@ public class Main {
     RedBlackTree<String> tree,tree2;
 
     public Main() throws IOException {
+        checker = new RBTChecker();
         tree = new RedBlackTree<>();
         tree2 = new RedBlackTree<>();
         treeView.setModel(new RBTreeModel<>(tree));
@@ -47,6 +54,22 @@ public class Main {
 
             }
         });
+        previousButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                if (random == null)random = new Random();
+                int index = random.nextInt(tree.size());
+                Iterator<String> iterator = tree.iterator();
+                for (int i = 0; i <= index; i++) {
+                    iterator.next();
+                }
+                iterator.remove();
+                isValidTree.setText(String.valueOf(
+                        checker.checkRoute(tree.getRoot())));
+                treeView.updateUI();
+            }
+        });
+        splitLine.setDividerLocation(splitLine.getMaximumDividerLocation());
     }
 
     public static void main(String[] args) throws Exception {
@@ -63,6 +86,8 @@ public class Main {
     private JButton nextButton;
     private JTree treeViewPre;
     private JLabel isValidTree;
+    private JButton previousButton;
+    private JSplitPane splitLine;
 
     private void createUIComponents() {
         // TODO: place custom component creation code here
