@@ -1,3 +1,5 @@
+package moe.reinwd;
+
 import com.sun.istack.internal.NotNull;
 
 import java.io.Serializable;
@@ -441,7 +443,7 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
         this.root = null;
     }
 
-    class Node<T extends Comparable> {
+    public class Node<T extends Comparable> {
         Node<T> parent;
         Node<T> leftChild;
         Node<T> rightChild;
@@ -449,19 +451,19 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
 
         T value;
 
-        Node(T value) {
+        public Node(T value) {
             this(value, null, null, null, RED);
         }
 
-        Node(T value, int color) {
+        public Node(T value, int color) {
             this(value, null, null, null, color);
         }
 
-        Node(T value, Node<T> parent) {
+        public Node(T value, Node<T> parent) {
             this(value, parent, null, null, RED);
         }
 
-        Node(T value, Node<T> parent, Node<T> leftChild, Node<T> rightChild, int color) {
+        public Node(T value, Node<T> parent, Node<T> leftChild, Node<T> rightChild, int color) {
             this.value = value;
             this.parent = parent;
             this.leftChild = leftChild;
@@ -469,19 +471,19 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
             this.color = color;
         }
 
-        boolean hasRightChild() {
+        public boolean hasRightChild() {
             return this.rightChild != null;
         }
 
-        boolean hasLeftChild() {
+        public boolean hasLeftChild() {
             return this.leftChild != null;
         }
 
-        boolean hasParent() {
+        public boolean hasParent() {
             return this.parent != null;
         }
 
-        boolean isRightChild() {
+        public boolean isRightChild() {
             return hasParent() && parent.rightChild == this;
         }
 

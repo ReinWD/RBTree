@@ -1,3 +1,5 @@
+package moe.reinwd;
+
 import javax.swing.*;
 import java.awt.*;
 
