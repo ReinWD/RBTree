@@ -48,7 +48,7 @@ class RBTTest {
         if (a.isEmpty())return;
         RedBlackTree.Node root = a.getRoot();
         RBTChecker checker = new RBTChecker();
-        Assertions.assertTrue(checker.checkRoute(root),checker.cause);
+        Assertions.assertTrue(checker.checkRoute(root),checker.getCause());
     }
 
     @Test

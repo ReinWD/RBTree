@@ -1,6 +1,6 @@
 package moe.reinwd;
 
-class RBTChecker{
+public class RBTChecker{
     int count;
     boolean en = true;
 
