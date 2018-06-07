@@ -1,6 +1,7 @@
 package moe.reinwd;
 
 import com.sun.istack.internal.NotNull;
+import debug.LogTool;
 
 import java.io.Serializable;
 import java.util.Collection;
@@ -104,6 +105,7 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
                 return tryInsert(t, node.rightChild);
             } else {
                 node.rightChild = new Node<>(t, node);
+                LogTool.log(node, LogTool.Action.ADD);
                 proceedFlip(node.rightChild);
                 size++;
                 return true;
@@ -113,6 +115,7 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
                 return tryInsert(t, node.leftChild);
             } else {
                 node.leftChild = new Node<>(t, node);
+                LogTool.log(node, LogTool.Action.ADD);
                 proceedFlip(node.leftChild);
                 size++;
                 return true;
@@ -284,6 +287,7 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
             final Node<T> node = tryFind(((Comparable<T>) o), root);
             if (node == null) return false;
             else {//node != null
+                LogTool.log(node, LogTool.Action.DELETE);
                 fixNodeDelete(node);
                 size--;
                 return true;
@@ -336,7 +340,6 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
                 Node<T> child = node.hasLeftChild() ? node.leftChild : node.rightChild;
                 child.changeParent(parent);
             } else if (node.hasLeftChild()&&node.hasRightChild()){
-                node.changeParent(null);
                 Node<T> replacer = node.rightChild.findLeftBorder();
                 replacer.switchPlace(node);
                 fixNodeDelete(node);
@@ -485,6 +488,26 @@ public class RedBlackTree<T extends Comparable> implements Collection<T>, Serial
 
         public boolean isRightChild() {
             return hasParent() && parent.rightChild == this;
+        }
+
+        public T getValue() {
+            return value;
+        }
+
+        public Node<T> getParent(){
+            return parent;
+        }
+
+        public Node<T> getLeftChild() {
+            return leftChild;
+        }
+
+        public Node<T> getRightChild() {
+            return rightChild;
+        }
+
+        public int getColor() {
+            return color;
         }
 
         void changeParent(Node<T> newParent) {

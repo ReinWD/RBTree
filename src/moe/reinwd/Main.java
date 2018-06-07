@@ -1,5 +1,7 @@
 package moe.reinwd;
 
+import debug.LogTool;
+
 import javax.swing.*;
 import javax.swing.event.TreeModelListener;
 import javax.swing.tree.TreeModel;
@@ -49,7 +51,7 @@ public class Main {
                         treeView.expandRow(i);
                         treeViewPre.expandRow(i);
                     }
-                    isValidTree.setText(String.valueOf(new RBTChecker().checkRoute(tree.getRoot())));
+                    checkValidation();
                 } catch (IOException e1) {
                     e1.printStackTrace();
                 }
@@ -66,12 +68,17 @@ public class Main {
                     iterator.next();
                 }
                 iterator.remove();
-                isValidTree.setText(String.valueOf(
-                        checker.checkRoute(tree.getRoot())));
+                checkValidation();
                 treeView.updateUI();
             }
         });
         splitLine.setDividerLocation(splitLine.getMaximumDividerLocation());
+    }
+
+    private void checkValidation() {
+        boolean result = checker.checkRoute(tree.getRoot());
+        isValidTree.setText(String.valueOf(result));
+        LogTool.logValidate(result);
     }
 
     public static void main(String[] args) throws Exception {
