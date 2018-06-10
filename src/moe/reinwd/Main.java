@@ -14,22 +14,25 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.NoSuchElementException;
 import java.util.Random;
 
 public class Main {
     File file = new File("str");
     BufferedReader reader= new BufferedReader(new FileReader(file));
     String last;
+    String lastRm;
     private Random random;
     ArrayList<String> strList;
     RBTChecker checker;
 
     private void next() throws IOException {
         String buffer;
-        if (last!=null) tree2.add(last);
         buffer = reader.readLine();
-        last = buffer;
         tree.add(buffer);
+        checkLast();
+        last = buffer;
+//        tree2.add(last);
     }
 
     RedBlackTree<String> tree,tree2;
@@ -45,12 +48,7 @@ public class Main {
             public void actionPerformed(ActionEvent e) {
                 try {
                     next();
-                    treeView.updateUI();
-                    treeViewPre.updateUI();
-                    for (int i = 0; i < treeView.getRowCount(); i++) {
-                        treeView.expandRow(i);
-                        treeViewPre.expandRow(i);
-                    }
+                    updateTree();
                     checkValidation();
                 } catch (IOException e1) {
                     e1.printStackTrace();
@@ -61,24 +59,48 @@ public class Main {
         previousButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                if (random == null)random = new Random();
+                if (random == null)random = new Random(1);
                 int index = random.nextInt(tree.size());
                 Iterator<String> iterator = tree.iterator();
+                String temp = null;
                 for (int i = 0; i <= index; i++) {
-                    iterator.next();
+                    temp = iterator.next();
                 }
                 iterator.remove();
+                checkLast();
+                lastRm = temp;
                 checkValidation();
-                treeView.updateUI();
+                updateTree();
             }
         });
         splitLine.setDividerLocation(splitLine.getMaximumDividerLocation());
     }
 
+    private void updateTree() {
+        treeView.updateUI();
+        treeViewPre.updateUI();
+        for (int i = 0; i < treeView.getRowCount(); i++) {
+            treeView.expandRow(i);
+            treeViewPre.expandRow(i);
+        }
+    }
+
+    private void checkLast() {
+        if (last!=null){
+            tree2.add(last);
+            last = null;
+        }
+        if (lastRm != null){
+            tree2.remove(lastRm);
+            lastRm = null;
+        }
+    }
+
     private void checkValidation() {
+
         boolean result = checker.checkRoute(tree.getRoot());
         isValidTree.setText(String.valueOf(result));
-        LogTool.logValidate(result);
+        LogTool.logValidate(result,checker.cause);
     }
 
     public static void main(String[] args) throws Exception {

@@ -36,12 +36,13 @@ public class LogTool {
     }
 
 
-    public static void logValidate(boolean isValidate){
+    public static void logValidate(boolean isValidate,String cause){
         StringBuilder sb = new StringBuilder();
         addTimeStamp(sb);
         sb.append("Tree is ");
         if (!isValidate) sb.append("not ");
         sb.append("validate");
+        if (!isValidate) sb.append(" ").append(cause);
         System.out.println(sb.toString());
     }
 
